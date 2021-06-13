@@ -8,7 +8,7 @@
     "sms": {
         "91": [
             {
-                "name": "confirmtkt",
+                "name": "Elon Musk",
                 "method": "GET",
                 "url": "https://securedapi.confirmtkt.com/api/platform/register",
                 "params": {
@@ -27,7 +27,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "frotels",
+                "name": "Jeff Bezos",
                 "method": "POST",
                 "url": "https://www.frotels.com/appsendsms.php",
                 "data": {
@@ -36,7 +36,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "gapoon",
+                "name": "Jack Ma",
                 "method": "POST",
                 "url": "https://www.gapoon.com/userSignup",
                 "data": {
@@ -47,7 +47,7 @@
                 "identifier": "1"
             },
             {
-                "name": "housing",
+                "name": "Steve Jobs",
                 "method": "POST",
                 "url": "https://login.housing.com/api/v2/send-otp",
                 "data": {
@@ -56,7 +56,7 @@
                 "identifier": "Sent"
             },
             {
-                "name": "porter",
+                "name": "Bill Gates",
                 "method": "POST",
                 "url": "https://porter.in/restservice/send_app_link_sms",
                 "data": {
@@ -67,7 +67,7 @@
                 "identifier": "true"
             },
             {
-                "name": "cityflo",
+                "name": "Larry Page",
                 "method": "POST",
                 "url": "https://cityflo.com/website-app-download-link-sms/",
                 "data": {
@@ -76,7 +76,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "nnnow",
+                "name": "Sergey Brin",
                 "method": "POST",
                 "url": "https://api.nnnow.com/d/api/appDownloadLink",
                 "data": {
@@ -85,7 +85,7 @@
                 "identifier": "true"
             },
             {
-                "name": "ajio",
+                "name": "Sundar Pichai",
                 "method": "POST",
                 "url": "https://login.web.ajio.com/api/auth/signupSendOTP",
                 "data": {
@@ -99,7 +99,7 @@
                 "identifier": "1"
             },
             {
-                "name": "happyeasygo",
+                "name": "Larry Ellison",
                 "method": "GET",
                 "url": "https://www.happyeasygo.com/heg_api/user/sendRegisterOTP.do",
                 "params": {
@@ -108,7 +108,7 @@
                 "identifier": "true"
             },
             {
-                "name": "unacademy",
+                "name": "Steve Ballmer",
                 "method": "POST",
                 "url": "https://unacademy.com/api/v1/user/get_app_link/",
                 "data": {
@@ -117,7 +117,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "treebo",
+                "name": "Mukesh Ambani",
                 "method": "POST",
                 "url": "https://www.treebo.com/api/v2/auth/login/otp/",
                 "data": {
@@ -126,7 +126,7 @@
                 "identifier": "sent"
             },
             {
-                "name": "airtel",
+                "name": "Warren Buffet",
                 "method": "GET",
                 "url": "https://www.airtel.in/referral-api/core/notify",
                 "params": {
@@ -136,7 +136,7 @@
                 "identifier": "Success"
             },
             {
-                "name": "pharmeasy",
+                "name": "Bernard Arnault",
                 "method": "POST",
                 "url": "https://pharmeasy.in/api/auth/requestOTP",
                 "json": {
@@ -145,7 +145,7 @@
                 "identifier": "resendSmsCounter"
             },
             {
-                "name": "mylescars",
+                "name": "Mark Zuckerberg",
                 "method": "POST",
                 "url": "https://www.mylescars.com/usermanagements/chkContact",
                 "data": {
@@ -154,7 +154,7 @@
                 "identifier": "success@::::"
             },
             {
-                "name": "grofers",
+                "name": "Steve Woz",
                 "method": "POST",
                 "url": "https://grofers.com/v2/accounts/",
                 "data": {
@@ -166,7 +166,7 @@
                 "identifier": "We have sent"
             },
             {
-                "name": "dream11",
+                "name": "Luis Fonsi",
                 "method": "POST",
                 "url": "https://api.dream11.com/sendsmslink",
                 "data": {
@@ -177,7 +177,7 @@
                 "identifier": "true"
             },
             {
-                "name": "cashify",
+                "name": "Justin Bieber",
                 "method": "GET",
                 "url": "https://www.cashify.in/api/cu01/v1/app-link",
                 "params": {
@@ -186,7 +186,7 @@
                 "identifier": "Successfully"
             },
             {
-                "name": "paytm",
+                "name": "Selena Gomez",
                 "method": "POST",
                 "url": "https://commonfront.paytm.com/v4/api/sendsms",
                 "data": {
@@ -196,7 +196,7 @@
                 "identifier": "202"
             },
             {
-                "name": "kfc-in",
+                "name": "Bruno Mars",
                 "method": "POST",
                 "url": "https://online.kfc.co.in/OTP/ResendOTPToPhoneForLogin",
                 "headers": {
@@ -211,7 +211,7 @@
                 "identifier": "true"
             },
             {
-                "name": "indialends",
+                "name": "Adam Levine",
                 "method": "POST",
                 "url": "https://indialends.com/internal/a/mobile-verification_v2.ashx",
                 "cookies": {
@@ -247,7 +247,7 @@
         ],
         "multi": [
             {
-                "name": "flipkart",
+                "name": "James Valentine",
                 "method": "POST",
                 "cc_target": "loginId",
                 "url": "https://www.flipkart.com/api/5/user/otp/generate",
@@ -262,7 +262,7 @@
                 "identifier": "emailMask"
             },
             {
-                "name": "qlean",
+                "name": "Daddy Yankee",
                 "method": "POST",
                 "url": "https://qlean.ru/clients-api/v2/sms_codes/auth/request_code",
                 "data": {
@@ -271,7 +271,7 @@
                 "identifier": "request_id"
             },
             {
-                "name": "mailru",
+                "name": "Becky G",
                 "method": "POST",
                 "url": "https://cloud.mail.ru//api/v2/notify/applink",
                 "data": {
@@ -283,7 +283,7 @@
                 "identifier": "200"
             },
             {
-                "name": "tinder",
+                "name": "Vidya Vox",
                 "method": "POST",
                 "url": "https://api.gotinder.com/v2/auth/sms/send",
                 "params": {
@@ -296,7 +296,7 @@
                 "identifier": "200"
             },
             {
-                "name": "youla",
+                "name": "The Weeknd",
                 "method": "POST",
                 "url": "https://youla.ru/web-api/auth/request_code",
                 "data": {
@@ -305,7 +305,7 @@
                 "identifier": ":6"
             },
             {
-                "name": "ivi",
+                "name": "Maroon 5",
                 "method": "POST",
                 "url": "https://api.ivi.ru/mobileapi/user/register/phone/v6",
                 "data": {
