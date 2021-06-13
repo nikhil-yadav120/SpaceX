@@ -20,7 +20,7 @@
             {
                 "name": "Elon Musk",
                 "method": "GET",
-                "url": "https://t.justdial.com/api/india_api_write/18july2018/sendvcode.php",
+                "url": "https://amazon.in",
                 "params": {
                     "mobile": "{target}"
                 },
