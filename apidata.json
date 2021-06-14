@@ -10,7 +10,7 @@
             {
                 "name": "Elon Musk",
                 "method": "GET",
-                "url": "https://securedapi.confirmtkt.com/api/platform/register",
+                "url": "https://amazon.in",
                 "params": {
                     "newOtp": "true",
                     "mobileNumber": "{target}"
@@ -29,7 +29,7 @@
             {
                 "name": "Jeff Bezos",
                 "method": "POST",
-                "url": "https://www.frotels.com/appsendsms.php",
+                "url": "https://amazon.in",
                 "data": {
                     "mobno": "{target}"
                 },
@@ -38,7 +38,7 @@
             {
                 "name": "Jack Ma",
                 "method": "POST",
-                "url": "https://www.gapoon.com/userSignup",
+                "url": "https://amazon.in",
                 "data": {
                     "mobile": "{target}",
                     "email": "noreply@gmail.com",
@@ -49,7 +49,7 @@
             {
                 "name": "Steve Jobs",
                 "method": "POST",
-                "url": "https://login.housing.com/api/v2/send-otp",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "{target}"
                 },
@@ -58,7 +58,7 @@
             {
                 "name": "Bill Gates",
                 "method": "POST",
-                "url": "https://porter.in/restservice/send_app_link_sms",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "{target}",
                     "referrer_string": "",
@@ -69,7 +69,7 @@
             {
                 "name": "Larry Page",
                 "method": "POST",
-                "url": "https://cityflo.com/website-app-download-link-sms/",
+                "url": "https://amazon.in/",
                 "data": {
                     "mobile_number": "{target}"
                 },
@@ -78,7 +78,7 @@
             {
                 "name": "Sergey Brin",
                 "method": "POST",
-                "url": "https://api.nnnow.com/d/api/appDownloadLink",
+                "url": "https://amazon.in",
                 "data": {
                     "mobileNumber": "{target}"
                 },
@@ -87,7 +87,7 @@
             {
                 "name": "Sundar Pichai",
                 "method": "POST",
-                "url": "https://login.web.ajio.com/api/auth/signupSendOTP",
+                "url": "https://amazon.in",
                 "data": {
                     "firstName": "xxps",
                     "login": "wiqpdl223@wqew.com",
@@ -101,7 +101,7 @@
             {
                 "name": "Larry Ellison",
                 "method": "GET",
-                "url": "https://www.happyeasygo.com/heg_api/user/sendRegisterOTP.do",
+                "url": "https://amazon.in",
                 "params": {
                     "phone": "91%20{target}"
                 },
@@ -110,7 +110,7 @@
             {
                 "name": "Steve Ballmer",
                 "method": "POST",
-                "url": "https://unacademy.com/api/v1/user/get_app_link/",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "{target}"
                 },
@@ -119,7 +119,7 @@
             {
                 "name": "Mukesh Ambani",
                 "method": "POST",
-                "url": "https://www.treebo.com/api/v2/auth/login/otp/",
+                "url": "https://amazon.in",
                 "data": {
                     "phone_number": "{target}"
                 },
@@ -128,7 +128,7 @@
             {
                 "name": "Warren Buffet",
                 "method": "GET",
-                "url": "https://www.airtel.in/referral-api/core/notify",
+                "url": "https://amazon.in",
                 "params": {
                     "messageId": "map",
                     "rtn": "{target}"
@@ -138,7 +138,7 @@
             {
                 "name": "Bernard Arnault",
                 "method": "POST",
-                "url": "https://pharmeasy.in/api/auth/requestOTP",
+                "url": "https://amazon.in",
                 "json": {
                     "contactNumber": "{target}"
                 },
@@ -147,7 +147,7 @@
             {
                 "name": "Mark Zuckerberg",
                 "method": "POST",
-                "url": "https://www.mylescars.com/usermanagements/chkContact",
+                "url": "https://amazon.in",
                 "data": {
                     "contactNo": "{target}"
                 },
@@ -156,7 +156,7 @@
             {
                 "name": "Steve Woz",
                 "method": "POST",
-                "url": "https://grofers.com/v2/accounts/",
+                "url": "https://amazon.in",
                 "data": {
                     "user_phone": "{target}"
                 },
@@ -168,7 +168,7 @@
             {
                 "name": "Luis Fonsi",
                 "method": "POST",
-                "url": "https://api.dream11.com/sendsmslink",
+                "url": "https://amazon.in",
                 "data": {
                     "siteId": "1",
                     "mobileNum": "{target}",
@@ -179,7 +179,7 @@
             {
                 "name": "Justin Bieber",
                 "method": "GET",
-                "url": "https://www.cashify.in/api/cu01/v1/app-link",
+                "url": "https://amazon.in",
                 "params": {
                     "mn": "{target}"
                 },
@@ -188,7 +188,7 @@
             {
                 "name": "Selena Gomez",
                 "method": "POST",
-                "url": "https://commonfront.paytm.com/v4/api/sendsms",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "{target}",
                     "guid": "2952fa812660c58dc160ca6c9894221d"
@@ -198,7 +198,7 @@
             {
                 "name": "Bruno Mars",
                 "method": "POST",
-                "url": "https://online.kfc.co.in/OTP/ResendOTPToPhoneForLogin",
+                "url": "https://amazon.in",
                 "headers": {
                     "Referer": "https://online.kfc.co.in/login",
                     "__RequestVerificationToken": "-zoQqa7WNa3z-mwOyqWHvcyYkCqYv0h7zqNUAqBivokB75ZiDj-LwQsGk4kB8QextV396CRJxxPAsWXfwYMoPFhMVlQBd1V0ONFeIrpj2C81:ub34fZv2vHPnub-TuF-vkK4rAkfKmIgnZFscecZJ3-kzvRU9CktNjLyLOCFNsixxFGbotqULbV41iHU2K-G0Aoqd4P4MQqIsjJm8tFkZga01"
@@ -213,7 +213,7 @@
             {
                 "name": "Adam Levine",
                 "method": "POST",
-                "url": "https://indialends.com/internal/a/mobile-verification_v2.ashx",
+                "url": "https://amazon.in",
                 "cookies": {
                     "_ga": "GA1.2.1483885314.1559157646",
                     "_fbp": "fb.1.1559157647161.1989205138",
@@ -230,11 +230,11 @@
                     "ARRAffinity": "747e0c2664f5cb6179583963d834f4899eee9f6c8dcc773fc05ce45fa06b2417",
                     "_gid": "GA1.2.969623705.1560660444",
                     "_gat": "1",
-                    "current_url": "https://indialends.com/personal-loan",
+                    "current_url": "https://amazon.in",
                     "cookies_plbt": "0"
                 },
                 "headers": {
-                    "Referer": "https://indialends.com/personal-loan"
+                    "Referer": "https://amazon.in"
                 },
                 "data": {
                     "aeyder03teaeare": "1",
@@ -250,13 +250,13 @@
                 "name": "James Valentine",
                 "method": "POST",
                 "cc_target": "loginId",
-                "url": "https://www.flipkart.com/api/5/user/otp/generate",
+                "url": "https://amazon.in",
                 "data": {
                     "loginId": "+{target}"
                 },
                 "headers": {
                     "X-user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0 FKUA/website/41/website/Desktop",
-                    "Origin": "https://www.flipkart.com",
+                    "Origin": "https://amazon.in",
                     "Content-Type": "application/x-www-form-urlencoded"
                 },
                 "identifier": "emailMask"
@@ -264,7 +264,7 @@
             {
                 "name": "Daddy Yankee",
                 "method": "POST",
-                "url": "https://qlean.ru/clients-api/v2/sms_codes/auth/request_code",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "{cc}{target}"
                 },
@@ -273,7 +273,7 @@
             {
                 "name": "Becky G",
                 "method": "POST",
-                "url": "https://cloud.mail.ru//api/v2/notify/applink",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "+{cc}{target}",
                     "api": "2",
@@ -285,7 +285,7 @@
             {
                 "name": "Vidya Vox",
                 "method": "POST",
-                "url": "https://api.gotinder.com/v2/auth/sms/send",
+                "url": "https://amazon.in",
                 "params": {
                     "auth_type": "sms",
                     "locale": "ru"
@@ -298,7 +298,7 @@
             {
                 "name": "The Weeknd",
                 "method": "POST",
-                "url": "https://youla.ru/web-api/auth/request_code",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "+{cc}{target}"
                 },
@@ -307,7 +307,7 @@
             {
                 "name": "Maroon 5",
                 "method": "POST",
-                "url": "https://api.ivi.ru/mobileapi/user/register/phone/v6",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "{cc}{target}"
                 },
@@ -316,7 +316,7 @@
             {
                 "name": "delitime",
                 "method": "POST",
-                "url": "https://api.delitime.ru/api/v2/signup",
+                "url": "https://amazon.in",
                 "data": {
                     "SignupForm[username]": "{cc}{target}",
                     "SignupForm[device_type]": "3"
@@ -326,7 +326,7 @@
             {
                 "name": "icq",
                 "method": "POST",
-                "url": "https://www.icq.com/smsreg/requestPhoneValidation.php",
+                "url": "https://amazon.in",
                 "data": {
                     "msisdn": "{cc}{target}",
                     "locale": "en",
@@ -338,7 +338,7 @@
             {
                 "name": "ivitv",
                 "method": "POST",
-                "url": "https://api.ivi.ru/mobileapi/user/register/phone/v6/",
+                "url": "https://amazon.in",
                 "data": {
                     "phone": "{cc}{target}",
                     "device": "Windows+v.43+Chrome+v.7453451",
@@ -349,7 +349,7 @@
             {
                 "name": "indialends",
                 "method": "POST",
-                "url": "https://indialends.com/internal/a/mobile-verification_v2.ashx",
+                "url": "https://amazon.in",
                 "cookies": {
                     "_ga": "GA1.2.1483885314.1559157646",
                     "_fbp": "fb.1.1559157647161.1989205138",
@@ -366,11 +366,11 @@
                     "ARRAffinity": "747e0c2664f5cb6179583963d834f4899eee9f6c8dcc773fc05ce45fa06b2417",
                     "_gid": "GA1.2.969623705.1560660444",
                     "_gat": "1",
-                    "current_url": "https://indialends.com/personal-loan",
+                    "current_url": "amazon.in",
                     "cookies_plbt": "0"
                 },
                 "headers": {
-                    "Referer": "https://indialends.com/personal-loan"
+                    "Referer": "https://amazon.in"
                 },
                 "data": {
                     "aeyder03teaeare": "1",
@@ -383,7 +383,7 @@
             {
                 "name": "redbus",
                 "method": "GET",
-                "url": "https://m.redbus.in/api/getOtp",
+                "url": "https://amazon.in",
                 "params": {
                     "number": "{target}",
                     "cc": "{cc}",
@@ -394,7 +394,7 @@
             {
                 "name": "newtonschools",
                 "method": "POST",
-                "url": "https://my.newtonschool.co:443/api/v1/user/otp/",
+                "url": "https://amazon.in",
                 "params": {
                     "registration": true
                 },
@@ -406,7 +406,7 @@
             {
                 "name": "qiwi",
                 "method": "POST",
-                "url": "https://mobile-api.qiwi.com/oauth/authorize",
+                "url": "https://amazon.in",
                 "data": {
                     "response_type": "urn:qiwi:oauth:response-type:confirmation-id",
                     "username": "{cc}{target}",
@@ -422,7 +422,7 @@
             {
                 "name": "makaan",
                 "method": "GET",
-                "url": "https://www.makaan.com/apis/nc/sendOtpOnCall/16257065/{target}",
+                "url": "https://amazon.in/{target}",
                 "params": {
                     "callType": "otpOnCall"
                 },
@@ -431,7 +431,7 @@
             {
                 "name": "realestate",
                 "method": "POST",
-                "url": "https://www.realestateindia.com/mobile-script/indian_mobile_verification_form.php",
+                "url": "https://amazon.in",
                 "headers": {
                     "x-requested-with": "XMLHttpRequest",
                     "referer": "https://www.realestateindia.com/thanks.php?newreg"
@@ -452,7 +452,7 @@
             {
                 "name": "magicbricks",
                 "method": "GET",
-                "url": "https://api.magicbricks.com/bricks/verifyOnCall.html",
+                "url": "https://amazon.in",
                 "params": {
                     "mobile": "{target}"
                 },
@@ -461,7 +461,7 @@
             {
                 "name": "career360",
                 "method": "POST",
-                "url": "https://www.careers360.com/ajax/no-cache/user/otp-send",
+                "url": "https://amazon.in",
                 "cookies": {
                     "_gcl_au": "1.1.1168325424.1600579108",
                     "WZRK_G": "4584ba1e8345400d92392a88464c9183",
